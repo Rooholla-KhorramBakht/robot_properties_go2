@@ -1,1 +1,0 @@
-# robot_properties_go2
